@@ -28,7 +28,7 @@
         <gatling.version>2.1.7</gatling.version>
         <hazelcast.version>3.6.1</hazelcast.version>
         <!-- Spring social -->
-        <httpclient.version>4.5.1</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <jacoco-maven-plugin.version>0.7.6.201602180812</jacoco-maven-plugin.version>
         <java.version>1.8</java.version>
         <javax.inject.version>1</javax.inject.version>
